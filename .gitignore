@@ -1,0 +1,7 @@
+venv
+.env
+e_commerce_bot.egg-info
+__pycache__
+.tmp.driveupload
+test.py
+data_collection_pipeline
