@@ -10,5 +10,8 @@ fastapi
 uvicorn
 python-multipart
 jinja2
+streamlit
+undetected-chromedriver
+bs4
 
 -e .
